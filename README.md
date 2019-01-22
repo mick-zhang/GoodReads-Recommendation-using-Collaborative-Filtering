@@ -3,7 +3,7 @@ Applying collaborative filtering on GoodReads' book reviews.
 
 **If you are looking to skim over the project without going into too much detail, you can always access it through [_here_](https://nbviewer.jupyter.org/github/mick-zhang/Goodreads-Recommendation-using-Collaborative-Filtering/blob/master/Book%20Recommender%20System%20Github.ipynb?flush_cache=true).**
 
-![GoodReads](https://static.wixstatic.com/media/4c2960_576d701210b94376a548d85d3e9b703a.png/v1/fill/w_620,h_270,al_c,q_90/4c2960_576d701210b94376a548d85d3e9b703a.webp)
+![GoodReads](https://goo.gl/images/nSKnQU)
 
 Big data is now being utilized at a level we could have never previously imagined, but the important part still remains on how we apply the data in a business context and how we make the most out of it. For retailers such as online book store like **GoodReads**, product ratings can play a huge role for making sound business decisions. As these data on product ratings continue to grow over time,  companies can take advantage of the information presented in the data to enhance a Consumer's experience. I will be attempting to implement a recommendation system for recommending product that Consumers are interested in.
 
