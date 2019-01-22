@@ -1,5 +1,5 @@
-# Goodreads-Recommendation-using-Collaborative-Filtering
-Applying collaborative filtering on GoodReads' book reviews.
+# GoodReads-Recommendation-using-Collaborative-Filtering
+Applying collaborative filtering on GoodReads' book reviews
 
 **If you are looking to skim over the project without going into too much detail, you can always access it through [_here_](https://nbviewer.jupyter.org/github/mick-zhang/Goodreads-Recommendation-using-Collaborative-Filtering/blob/master/Book%20Recommender%20System%20Github.ipynb?flush_cache=true).**
 
