@@ -5,7 +5,7 @@
 
 # With the emergence of Machine Learning and AI, we are now able to utilize big data at a level that we could have never previously imagined. However, despite all these tools that are available at our disposal, it is still important on how we apply the data in a business context and how we make the most out of it.
 # 
-# For retailers, more specifically book retailers, we can work with these big data using consumer reviewers from books purchased, and then use those ratings to make recommendations for similar books that interests our consumers for recurring businesses and improved sales.
+# For retailers, more specifically book retailers, we can work with these big data using consumer reviewers from books that was purchased, and then use those ratings to make recommendations for similar books that interests our consumers for recurring businesses and improved sales.
 # 
 # The dataset that we are using is from **GoodReads**, which is a website that allows users to freely search their database for books and book reviews.
 # <br>
