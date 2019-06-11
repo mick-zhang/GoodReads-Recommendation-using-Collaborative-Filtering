@@ -16,4 +16,4 @@ I have also provided the direct link below if you wish to view the dataset I use
 
 This project was completed using Jupyter Notebook and Python with Pandas.
 
-This dataset also requires heavy manipulation of our raw data before running the algorithm, and I will continue to perform other analysis in the future with my improving programming knowledge!
+This dataset also requires heavy manipulation of our raw data before running the algorithm, and I will continue to perform other analysis in the future with my programming knowledge!
