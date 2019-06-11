@@ -5,7 +5,7 @@ Applying collaborative filtering on GoodReads' book reviews.
 
 <img src="GoodReads.jpg">
 
-Big data is now being utilized at a level that we could have never previously imagined, but the important part still remains on how we apply the data in a business context, and how make the most out of it. For retailers such as online book store like [GoodReads](https://www.goodreads.com/), product ratings can play a huge role for making sound business decisions. As the data on product ratings continues to grow over time, companies can take advantage of the information from the data, to enhance Consumer experiences.
+Big data is now being utilized at a level that we could have never previously imagined, but the important part still remains on how we apply the data in a business context, and how we make the most out of it. For retailers such as online book store like [GoodReads](https://www.goodreads.com/), product ratings can play a huge role for making sound business decisions. As the data on product ratings continues to grow over time, companies can take advantage of the information from the data, to enhance Consumer experiences.
 I will be attempting to implement a recommendation system, for recommending product that Consumers are interested in purchasing.
 
 The dataset I will be using is from www.kaggle.com.
