@@ -187,7 +187,7 @@ n = 20
 
 # # 3 Modeling
 
-# The model we are using to determine similarities betweens users is the **Euclidean Distance Model**, which measures the distance between users, and takes calculates the closest distance for similarity considerations.
+# The model we are using to determine similarities between users is the **Euclidean Distance Model**, which measures the distance between users, and takes calculates the closest distance for similarity considerations.
 # 
 # Here is the formula that we are going to use:
 # 
